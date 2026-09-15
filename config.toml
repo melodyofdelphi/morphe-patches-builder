@@ -28,7 +28,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 enable-update-checks = true
 
-[Pinterest}
+[Pinterest]
 build-mode = "both"
 patches-source = "SouBryan/pinterest-morphed"
 rv-brand = "Morphed"
