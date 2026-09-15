@@ -27,3 +27,12 @@ cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 enable-update-checks = true
+
+[Pinterest}
+build-mode = "both"
+patches-source = "SouBryan/pinterest-morphed"
+rv-brand = "Morphed"
+cli-source = "MorpheApp/morphe-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest/"
+uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
+enable-update-checks = true
